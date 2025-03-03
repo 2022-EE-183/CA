@@ -1,9 +1,3 @@
-/*
- * Author: A.G. Hasan Zarook
- * University: University of Engineering and Technology, Lahore
- * Project: RISCV Pipeline Architecture
- * Date: 11th December 2024
- */
 module tb_processor();
     logic clk;
     logic rst;
