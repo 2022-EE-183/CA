@@ -1,6 +1,0 @@
-view_waveform:
-	vlog ./*.sv  
-	vsim -c tb_processor -voptargs=+acc -do "run -all"
-	gtkwave processor.vcd
-
-.PHONY: view_waveform
