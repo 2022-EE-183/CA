@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.90 (w)1999-2018 BSI
+[*] Sun Mar 09 06:34:05 2025
+[*]
+[dumpfile] "C:\Users\AR\Desktop\6th Semester\EE475L\SCP_Final\processor.vcd"
+[dumpfile_mtime] "Sun Mar 09 06:32:26 2025"
+[dumpfile_size] 1761362
+[savefile] "C:\Users\AR\Desktop\6th Semester\EE475L\SCP_Final\wave.gtkw"
+[timestart] 456
+[size] 1536 811
+[pos] -139 -139
+*-5.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_processor.
+[treeopen] tb_processor.dut.
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 228
+@22
+tb_processor.dut.pc_inst.pc_out[31:0]
+#{tb_processor.dut.inst_instance.inst[31:0]} tb_processor.dut.inst_instance.inst[31] tb_processor.dut.inst_instance.inst[30] tb_processor.dut.inst_instance.inst[29] tb_processor.dut.inst_instance.inst[28] tb_processor.dut.inst_instance.inst[27] tb_processor.dut.inst_instance.inst[26] tb_processor.dut.inst_instance.inst[25] tb_processor.dut.inst_instance.inst[24] tb_processor.dut.inst_instance.inst[23] tb_processor.dut.inst_instance.inst[22] tb_processor.dut.inst_instance.inst[21] tb_processor.dut.inst_instance.inst[20] tb_processor.dut.inst_instance.inst[19] tb_processor.dut.inst_instance.inst[18] tb_processor.dut.inst_instance.inst[17] tb_processor.dut.inst_instance.inst[16] tb_processor.dut.inst_instance.inst[15] tb_processor.dut.inst_instance.inst[14] tb_processor.dut.inst_instance.inst[13] tb_processor.dut.inst_instance.inst[12] tb_processor.dut.inst_instance.inst[11] tb_processor.dut.inst_instance.inst[10] tb_processor.dut.inst_instance.inst[9] tb_processor.dut.inst_instance.inst[8] tb_processor.dut.inst_instance.inst[7] tb_processor.dut.inst_instance.inst[6] tb_processor.dut.inst_instance.inst[5] tb_processor.dut.inst_instance.inst[4] tb_processor.dut.inst_instance.inst[3] tb_processor.dut.inst_instance.inst[2] tb_processor.dut.inst_instance.inst[1] tb_processor.dut.inst_instance.inst[0]
+@29
+tb_processor.dut.inst_instance.opcode[6:0]
+@22
+tb_processor.dut.inst_instance.imm[31:0]
+tb_processor.dut.inst_instance.rs1[4:0]
+tb_processor.dut.reg_file_inst.rdata1[31:0]
+tb_processor.dut.inst_instance.rs2[4:0]
+tb_processor.dut.reg_file_inst.rdata2[31:0]
+tb_processor.dut.inst_instance.rd[4:0]
+tb_processor.dut.wb_mux.wdata[31:0]
+@28
+tb_processor.dut.reg_file_inst.reg_wr
+@22
+tb_processor.dut.alu_mux_a.mux_out_a[31:0]
+tb_processor.dut.alu_mux_b.mux_out_b[31:0]
+#{tb_processor.dut.alu_inst.aluop[3:0]} tb_processor.dut.alu_inst.aluop[3] tb_processor.dut.alu_inst.aluop[2] tb_processor.dut.alu_inst.aluop[1] tb_processor.dut.alu_inst.aluop[0]
+@28
+tb_processor.dut.br_cndtn.br_taken[1:0]
+@22
+#{tb_processor.dut.data_mem_inst.addr[31:0]} tb_processor.dut.data_mem_inst.addr[31] tb_processor.dut.data_mem_inst.addr[30] tb_processor.dut.data_mem_inst.addr[29] tb_processor.dut.data_mem_inst.addr[28] tb_processor.dut.data_mem_inst.addr[27] tb_processor.dut.data_mem_inst.addr[26] tb_processor.dut.data_mem_inst.addr[25] tb_processor.dut.data_mem_inst.addr[24] tb_processor.dut.data_mem_inst.addr[23] tb_processor.dut.data_mem_inst.addr[22] tb_processor.dut.data_mem_inst.addr[21] tb_processor.dut.data_mem_inst.addr[20] tb_processor.dut.data_mem_inst.addr[19] tb_processor.dut.data_mem_inst.addr[18] tb_processor.dut.data_mem_inst.addr[17] tb_processor.dut.data_mem_inst.addr[16] tb_processor.dut.data_mem_inst.addr[15] tb_processor.dut.data_mem_inst.addr[14] tb_processor.dut.data_mem_inst.addr[13] tb_processor.dut.data_mem_inst.addr[12] tb_processor.dut.data_mem_inst.addr[11] tb_processor.dut.data_mem_inst.addr[10] tb_processor.dut.data_mem_inst.addr[9] tb_processor.dut.data_mem_inst.addr[8] tb_processor.dut.data_mem_inst.addr[7] tb_processor.dut.data_mem_inst.addr[6] tb_processor.dut.data_mem_inst.addr[5] tb_processor.dut.data_mem_inst.addr[4] tb_processor.dut.data_mem_inst.addr[3] tb_processor.dut.data_mem_inst.addr[2] tb_processor.dut.data_mem_inst.addr[1] tb_processor.dut.data_mem_inst.addr[0]
+tb_processor.dut.data_mem_inst.rdata[31:0]
+#{tb_processor.dut.data_mem_inst.wdata[31:0]} tb_processor.dut.data_mem_inst.wdata[31] tb_processor.dut.data_mem_inst.wdata[30] tb_processor.dut.data_mem_inst.wdata[29] tb_processor.dut.data_mem_inst.wdata[28] tb_processor.dut.data_mem_inst.wdata[27] tb_processor.dut.data_mem_inst.wdata[26] tb_processor.dut.data_mem_inst.wdata[25] tb_processor.dut.data_mem_inst.wdata[24] tb_processor.dut.data_mem_inst.wdata[23] tb_processor.dut.data_mem_inst.wdata[22] tb_processor.dut.data_mem_inst.wdata[21] tb_processor.dut.data_mem_inst.wdata[20] tb_processor.dut.data_mem_inst.wdata[19] tb_processor.dut.data_mem_inst.wdata[18] tb_processor.dut.data_mem_inst.wdata[17] tb_processor.dut.data_mem_inst.wdata[16] tb_processor.dut.data_mem_inst.wdata[15] tb_processor.dut.data_mem_inst.wdata[14] tb_processor.dut.data_mem_inst.wdata[13] tb_processor.dut.data_mem_inst.wdata[12] tb_processor.dut.data_mem_inst.wdata[11] tb_processor.dut.data_mem_inst.wdata[10] tb_processor.dut.data_mem_inst.wdata[9] tb_processor.dut.data_mem_inst.wdata[8] tb_processor.dut.data_mem_inst.wdata[7] tb_processor.dut.data_mem_inst.wdata[6] tb_processor.dut.data_mem_inst.wdata[5] tb_processor.dut.data_mem_inst.wdata[4] tb_processor.dut.data_mem_inst.wdata[3] tb_processor.dut.data_mem_inst.wdata[2] tb_processor.dut.data_mem_inst.wdata[1] tb_processor.dut.data_mem_inst.wdata[0]
+@28
+tb_processor.dut.data_mem_inst.rd_en
+tb_processor.dut.data_mem_inst.wr_en
+[pattern_trace] 1
+[pattern_trace] 0
