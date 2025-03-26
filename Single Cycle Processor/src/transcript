@@ -1,5 +1,5 @@
 # vsim -c tb_processor -voptargs="+acc" -do "run -all" 
-# Start time: 16:44:06 on Mar 09,2025
+# Start time: 23:27:31 on Mar 10,2025
 # ** Note: (vsim-8009) Loading existing optimized design _opt
 # //  Questa Sim-64
 # //  Version 10.6c win64 Jul 26 2017
@@ -31,7 +31,7 @@
 # Loading work.wb_mux(fast)
 # Loading work.controller(fast)
 # run -all
-# ** Note: $finish    : ./tb_processor.sv(24)
+# ** Note: $finish    : C:/Users/AR/Desktop/6th Semester/EE475L/SCP_Final/./tb_processor.sv(24)
 #    Time: 1000010 ns  Iteration: 0  Instance: /tb_processor
-# End time: 16:44:07 on Mar 09,2025, Elapsed time: 0:00:01
+# End time: 23:27:32 on Mar 10,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
